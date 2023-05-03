@@ -5,3 +5,4 @@ metadata:
 data:
   # property-like keys; each key maps to a simple value
   mongo-url: mongo-service-int
+  mongo-springboot-db: springboot-db
